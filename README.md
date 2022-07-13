@@ -14,6 +14,6 @@ php 8.1.0
 ## Instalation 
 * Versions de Symfony LTS 
 1. par la commande 
-...
+```
 symfony new --full Kalitics --version=4.4
-...
+```
