@@ -17,3 +17,7 @@ php 8.1.0
 ```
 symfony new --full Kalitics --version=4.4
 ```
+2. Installer toutes les dépendances composer du projet : 
+```
+composer install
+```
